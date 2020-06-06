@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PWD currentfolder=$PWD ls -a -l $currentfolder ls -a -l /boot
+ls -aUl . .. /boot

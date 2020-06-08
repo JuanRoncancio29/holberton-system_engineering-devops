@@ -1,1 +1,3 @@
-Current working directory 
+#basic comands shell
+
+basic shell 

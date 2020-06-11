@@ -1,2 +1,2 @@
 #!/bin/bash
-unique -s list
+unique list
